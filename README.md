@@ -1,0 +1,2 @@
+# gzqProject
+Own small development
